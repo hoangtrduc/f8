@@ -1,0 +1,20 @@
+/* h1 {
+    color: green;
+}
+
+.headring {
+    color: yellow;
+}
+
+#heading {
+    color: violet;
+}
+
+#heading.headring {
+    color: red;
+}
+
+
+h1#heading.headring {
+    color: aqua;
+} */
